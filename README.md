@@ -12,11 +12,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=walaa-volidis&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=walaa-volidis&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=walaa-volidis&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+## 🎓 AWS Certifications
+[![AWS Certified Solutions Architect – Associate](https://images.credly.com/size/220x220/images/0e2e4c29-7008-4740-913b-69ef66078eed/image.png)](https://www.credly.com/badges/b2f752c3-97d3-4be1-bed2-d74ad26bc788/public_url)  
+[![AWS Certified Developer – Associate](https://images.credly.com/size/220x220/images/163a06e2-35ca-4cdc-bb71-1b53fa63c18a/image.png)](https://www.credly.com/badges/ee7545c5-725a-4633-aea7-4da9d5faca59/public_url)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-[![](https://visitcount.itsvg.in/api?id=walaa-volidis&icon=0&color=0)](https://visitcount.itsvg.in)
